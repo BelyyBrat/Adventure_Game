@@ -1,33 +1,13 @@
-# Project Title
+# Adventure Game
 
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+This project was developed through the Udacity - Front-End Web Developer Nanodegree Program. Built with Python.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Download or Clone the Repository.
+Run the script from Unix terminal and type:
+python3 adventure_game.py or python adventure_game.py
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
