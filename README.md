@@ -5,7 +5,9 @@ This project was developed through the Udacity - Front-End Web Developer Nanodeg
 ### Installing
 
 Download or Clone the Repository.
+
 Run the script from Unix terminal and type:
+
 python3 adventure_game.py or python adventure_game.py
 
 ```
